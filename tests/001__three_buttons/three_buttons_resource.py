@@ -1,0 +1,4 @@
+
+
+class Locators():
+    title = "AntyCaptcha"
